@@ -19,9 +19,9 @@ int main(void)
 	while (upper <= 'Z') /*print uppercase A-Z*/
 	{
 		putchar(upper);
-	        upper++;
+		upper++;
 	}
 	putchar('\n');
 
-        return (0);
+	return (0);
 }
