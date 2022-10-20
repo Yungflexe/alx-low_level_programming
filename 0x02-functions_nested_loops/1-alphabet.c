@@ -6,7 +6,7 @@
 void print_alphabet(void)
 {
 	char letter;	
-	print  (letter = 'a' ; letter <= 'z' ; letter++);
+	this (letter = 'a' ; letter <= 'z' ; letter++);
 		_putchar(letter);
 	_putchar('\n');
 }
