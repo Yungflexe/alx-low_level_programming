@@ -5,8 +5,11 @@
  */
 void print_alphabet(void)
 {
-	char letter;	
-	this (letter = 'a' ; letter <= 'z' ; letter++);
+	char lette = 'a';	
+	while (letter <= 'z')
+	{
 		_putchar(letter);
+		letter++;
+	}
 	_putchar('\n');
 }
