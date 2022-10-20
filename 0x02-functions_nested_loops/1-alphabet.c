@@ -5,7 +5,7 @@
  */
 void print_alphabet(void)
 {
-	char lette = 'a';	
+	char letter = 'a';	
 	while (letter <= 'z')
 	{
 		_putchar(letter);
