@@ -4,7 +4,9 @@
  * print_alphabet_×10 - print alphabet 10 times
  *
  * Return: always 0
+ * description: its writen by yungflexe
  */
+
 void print_alphabet_x10(void)
 {
 	int round = 0;
