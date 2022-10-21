@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet_×10 - print alphabet 10 times
- *
+ * print_alphabet_×10 -  print two alphabet
  * Return: void
- * description: its writen by yungflexe
  */
-void print_alphabet_x10(void)
+void print_alphabet_x10(void);
+add two number
 {
 	int round = 0;
 
