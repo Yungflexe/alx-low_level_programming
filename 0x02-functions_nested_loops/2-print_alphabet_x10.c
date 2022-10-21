@@ -6,8 +6,7 @@
  * Return: always 0
  * description: its writen by yungflexe
  */
-
-void print_alphabet_x10(void)
+void print_alphabet_x10(void) 
 {
 	int round = 0;
 	char letter = 'a';
@@ -15,7 +14,7 @@ void print_alphabet_x10(void)
 	while (round < 10)
 	{
 		letter = 'a';
-		while (letter <= 'z')
+		 while (letter <= 'z')
 		{
 			 _putchar(letter);
 			 letter++;
