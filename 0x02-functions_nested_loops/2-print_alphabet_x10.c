@@ -5,7 +5,7 @@
  * Return: void
  */
 void print_alphabet_x10(void);
-add two number
+print_alphabet_×10 : print two number
 {
 	int round = 0;
 
