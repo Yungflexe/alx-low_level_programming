@@ -5,7 +5,7 @@
  * Return: void
  */
 void print_alphabet_x10(void);
-print_alphabet_×10 : '0', '10'.
+print_alphabet_×10 : '_'
 
 int round = 0;
 char letter = 'a';
