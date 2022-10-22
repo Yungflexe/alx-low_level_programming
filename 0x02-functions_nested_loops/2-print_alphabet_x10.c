@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet_×10 -  print two alphabet
+ * print_alphabet_x10 -  print two alphabet
  * Return: void
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	while (round < 10)
 	{
