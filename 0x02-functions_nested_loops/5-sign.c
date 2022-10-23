@@ -2,10 +2,11 @@
 
 /**
  * print_sign - print a sign of a number
- * @n: n is a number
+ * @n: n is an integeri
  *
- * Return: 1 (if positive), 0 (if zero), -1 (if negative)
+ * Return: 1 (if positive), 0 (if zero), -1 (if negative), 0 (if it less than zero)
  */
+
 int print_sign(int n)
 {
 	if (n > 0)
